@@ -1,1 +1,1 @@
-# Parkinson-s-Detection-System
+# Parkinson's-Detection-System
