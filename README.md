@@ -1,5 +1,7 @@
 # Parkinson's-Detection-System
    
+   -->Parkinson's disease is a progressive nervous system disorder that affects movement. Symptoms start gradually, sometimes starting with a barely noticeable tremor in just one hand. 
+   
    -->Parkinson’s disease (PD) is one of the most prevalent neurodegenerative diseases, affecting over 6 million patients worldwide. Nerve cell damage in the brain causes dopamine levels to drop, leading to the symptoms of Parkinson's. 
   
   -->PD is characterized by both motor and non-motor symptoms , with the former mainly consisting of resting tremor, muscle rigidity, and akinesia. 
@@ -13,7 +15,15 @@
 
    -->In this project **Dimensionality Reduction Method [PCA]** is used to filter the most frequently occured data and the models are trained and tested in **Linear Regression,KNN,Random Forest**.
    
- 
+   
+# Symptoms
+
+Impaired posture and balance
+Rigid muscles
+Slowed movement (bradykinesia)
+Speech changes
+Writing changes
+
 # Conclusion
  
   Among the various models tested **Random Forest Classifier** gives greatest accuracy of **96%-98%**.
