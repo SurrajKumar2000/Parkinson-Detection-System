@@ -28,6 +28,12 @@
 
 **Writing changes**
 
+# Prevention
+
+**Because the cause of Parkinson's is unknown, proven ways to prevent the disease also remain a mystery.**
+
+**Some research has shown that regular aerobic exercise might reduce the risk of Parkinson's disease.**
+
 # Conclusion
  
   Among the various models tested **Random Forest Classifier** gives greatest accuracy of **96%-98%**.
