@@ -18,11 +18,15 @@
    
 # Symptoms
 
-**Impaired posture and balance
-**Rigid muscles
-**Slowed movement (bradykinesia)
-**Speech changes
-**Writing changes
+**Impaired posture and balance**
+
+**Rigid muscles**
+
+**Slowed movement (bradykinesia)**
+
+**Speech changes**
+
+**Writing changes**
 
 # Conclusion
  
