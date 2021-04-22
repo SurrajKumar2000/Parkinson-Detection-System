@@ -8,5 +8,3 @@
   
   -->Both men and women can have Parkinson’s disease. However, the disease affects about 50 percent more men than women.
 
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.medgadget.com%2F2018%2F10%2Fglobal-deep-brain-stimulation-devices-market-average-growth-rate-is-11-8-in-the-last-several-years.html&psig=AOvVaw2G_6qK6nHKj-RLECk0bPp-&ust=1619196552668000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDA2a2nkvACFQAAAAAdAAAAABAD
