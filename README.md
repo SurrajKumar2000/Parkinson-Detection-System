@@ -18,15 +18,15 @@
    
 # Symptoms
 
-   *Impaired posture and balance
+   *Impaired posture and balance*
 
-   *Rigid muscles
+   *Rigid muscles*
 
-   *Slowed movement (bradykinesia)
+   *Slowed movement (bradykinesia)*
 
-   *Speech changes
+   *Speech changes*
 
-   *Writing changes
+   *Writing changes*
 
 # Prevention
 
@@ -36,4 +36,4 @@
 
 # Conclusion
  
-  *Among the various models tested **Random Forest Classifier** gives greatest accuracy of **96%-98%**.
+  *Among the various models tested **Random Forest Classifier** gives greatest accuracy of **96%-98%**.*
