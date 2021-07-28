@@ -13,7 +13,7 @@
  ![deep-brain-stimulation-artwork-677090921-595450b43df78cdc298a3b97](https://user-images.githubusercontent.com/68986795/115753854-43667f00-a3b9-11eb-9a0b-049be81effd1.jpg)
 
 
-   -->In this project **Dimensionality Reduction Method [PCA]** is used to filter the most frequently occured data and the models are trained and tested in **Linear Regression,KNN,Random Forest**.
+   -->In this project **Dimensionality Reduction Method [PCA]** is used to filter the most frequently occured data and the models are trained and tested in **Linear Regression,KNN,SVM,XGBOOST,Random Forest**.
    
    
 # Symptoms
