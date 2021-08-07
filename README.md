@@ -37,3 +37,4 @@
 # Conclusion
  
   *Among the various models tested **Random Forest Classifier** gives greatest accuracy of **96%-98%**.*
+  *But the dataset is small and further case studies are required.*
